@@ -1,0 +1,6 @@
+{
+  "name": "Underground Mine Rover-Drone Rescue Simulator",
+  "description": "Real-time 3D simulation and autonomous multi-agent reconnaissance system for rover and scout drone subterranean mine mapping, environmental surveying, and human rescue corridor verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
